@@ -1,4 +1,4 @@
-# repo-php-oop-1
+# php-oop-1
 
 ## è definita una classe 'Movie'
 all'interno della classe sono dichiarate delle variabili d'istanza
